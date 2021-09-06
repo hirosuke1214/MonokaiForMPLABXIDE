@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor default="Number" foreColor="black" name="ASM_NUMBER"/>
+    <fontcolor default="Id" foreColor="ff99006b" name="ASM_UNKWN_ID"/>
+    <fontcolor default="Imm operand" foreColor="gray" name="ASM_IMM_OP"/>
+    <fontcolor default="Register" foreColor="ff009be1" name="ASM_REGISTER"/>
+    <fontcolor default="Instruction" foreColor="ff00009b" name="ASM_INSTRUCTION">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="Label" foreColor="black" name="ASM_LABEL_INST">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="Directive" foreColor="blue" name="ASM_DIRECTIVE"/>
+    <fontcolor default="Label" foreColor="black" name="ASM_LABEL">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="Comment" foreColor="ff009600" name="ASM_COMMENT"/>
+    <fontcolor default="String" foreColor="ffce7b00" name="ASM_STRING"/>
+    <fontcolor default="Character" foreColor="ffce7b00" name="ASM_CHARACTER"/>
+</fontscolors>
